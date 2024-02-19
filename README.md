@@ -3,5 +3,9 @@
 this wiki has just started being in development so there is nothing here yet!! but there will be soon
 
 # Todo List:
-- [W.I.P] make a page for public functions, characters, stages, etc
-- [] make a page for mod file structure
+- make a page about ndlls []
+- make a page about global.hx []
+- make a page about shaders []
+- make a page about custom settings []
+- make a page about states []
+- make a page about scripts []

@@ -10,3 +10,4 @@ this wiki has just started being in development so there is nothing here yet!! b
 - make a page about states []
 - make a page about custom classes []
 - make a page about scripts []
+- make a page about 3d stuff []
